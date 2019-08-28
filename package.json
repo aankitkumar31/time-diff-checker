@@ -1,0 +1,23 @@
+{
+  "name": "time-diff-checker",
+  "version": "1.0.2",
+  "description": "time-diff-checker is a package which returns time difference with your given time and compare that to current time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "keywords": [
+    "datetime",
+    "javascript",
+    "nodejs",
+    "angular",
+    "date",
+    "datediff",
+    "js"
+  ]
+}
